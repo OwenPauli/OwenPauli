@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <ul>
   <li>Making a GitHub page!</li>
   <li>I’m currently learning avbout Front-End Web Development, Universal Basic Income, Debt, Criminal Justice Reform, and Policing!</li>
-  <li>Pronouns</li>
+  <li>Pronouns: he/him</li>
   </ul>
 
