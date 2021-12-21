@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>I'm currently...<h2>
+<ul>
+  <li>Making a GitHub page!</li>
+  <li>I’m currently learning avbout Front-End Web Development, Universal Basic Income, Debt, Criminal Justice Reform, and Policing!</li>
+  <li>Pronouns</li>
+  </ul>
+
